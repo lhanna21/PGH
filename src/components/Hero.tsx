@@ -7,7 +7,7 @@ export function Hero() {
       <div 
         className="absolute inset-0 z-0"
         style={{
-          backgroundImage: 'url("https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&q=80")',
+          backgroundImage: 'url("https://glowfurniturefactory.com/wp-content/uploads/2023/05/Innovative-Uses-for-LED-Glow-Furniture-in-Music-Festival-VIP-Lounges.jpg")',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}

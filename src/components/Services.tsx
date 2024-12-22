@@ -6,19 +6,19 @@ import { Button } from './ui/Button';
 export function Services() {
   const services = [
     {
-      title: 'LED Furniture',
+      title: 'LED Glow Furniture',
       description: 'Illuminate your space with our range of LED tables, chairs, and lounges.',
       image: 'https://images.unsplash.com/photo-1517457373958-b7bdd4587205?auto=format&fit=crop&q=80',
       items: ['LED Tables', 'LED Chairs', 'LED Bars', 'LED Lounges'],
     },
     {
-      title: 'Event Packages',
+      title: 'Bartending',
       description: 'Complete event solutions with carefully curated furniture combinations.',
       image: 'https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&q=80',
       items: ['Wedding Package', 'Corporate Events', 'Party Package', 'Custom Solutions'],
     },
     {
-      title: 'Additional Services',
+      title: 'Packages',
       description: 'Enhance your event with our complementary services.',
       image: 'https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&q=80',
       items: ['Setup & Installation', 'Event Planning', 'Technical Support', 'Transport'],
